@@ -1,0 +1,141 @@
+test@test ~/D/w/exp-rev ❯❯❯ bash loop.sh                                                                    master ✱ ◼
+Welcome 1 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:43:49:807:133:925
+Welcome 2 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:44:9:836:846:444
+Welcome 3 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:44:29:865:228:284
+Welcome 4 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:44:49:895:822:367
+Welcome 5 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:45:9:907:589:953
+Welcome 6 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:45:29:937:988:933
+Welcome 7 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:45:49:953:321:763
+Welcome 8 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:46:9:964:786:447
+Welcome 9 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:46:29:994:18:537
+Welcome 10 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:46:50:24:785:37
+Welcome 11 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:47:10:55:816:577
+Welcome 12 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:47:30:82:429:296
+Welcome 13 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:47:50:113:684:416
+Welcome 14 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:48:10:133:947:497
+Welcome 15 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:48:30:162:938:207
+Welcome 16 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:48:50:192:779:201
+Welcome 17 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:49:10:222:15:653
+Welcome 18 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:49:30:253:249:813
+Welcome 19 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:49:50:281:645:719
+Welcome 20 times
+at Accept
+ Receive Begin 
+
+Inside Msg : Congestion at Olentengy
+
+rcv time : 1:50:10:400:196:776

@@ -1,0 +1,2002 @@
+❯ bash loop.sh
+Welcome 1 times
+send time :2:0:21:663:526:958
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 2 times
+send time :2:0:41:689:504:787
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 3 times
+send time :2:1:1:721:500:941
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 4 times
+send time :2:1:21:754:549:902
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 5 times
+send time :2:1:41:783:844:696
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 6 times
+send time :2:2:1:805:274:747
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 7 times
+send time :2:2:21:832:871:109
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 8 times
+send time :2:2:41:862:745:257
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 9 times
+send time :2:3:1:911:417:844
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 10 times
+send time :2:3:21:939:71:579
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 11 times
+send time :2:3:41:968:579:636
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 12 times
+send time :2:4:1:996:745:505
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 13 times
+send time :2:4:22:25:310:680
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 14 times
+send time :2:4:42:57:864:12
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 15 times
+send time :2:5:2:93:172:992
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 16 times
+send time :2:5:22:124:737:951
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 17 times
+send time :2:5:42:155:89:688
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 18 times
+send time :2:6:2:230:280:731
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 19 times
+send time :2:6:22:283:905:629
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 20 times
+send time :2:6:42:311:921:290
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 21 times
+send time :2:7:2:346:362:644
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 22 times
+send time :2:7:22:398:124:840
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 23 times
+send time :2:7:42:468:495:195
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 24 times
+send time :2:8:2:506:431:235
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 25 times
+send time :2:8:22:576:95:535
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 26 times
+send time :2:8:42:604:763:969
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 27 times
+send time :2:9:2:636:212:265
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 28 times
+send time :2:9:22:674:603:230
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 29 times
+send time :2:9:42:707:55:147
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 30 times
+send time :2:10:2:723:560:883
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 31 times
+send time :2:10:22:760:947:624
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 32 times
+send time :2:10:42:792:599:97
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 33 times
+send time :2:11:2:805:142:129
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 34 times
+send time :2:11:22:872:305:866
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 35 times
+send time :2:11:42:955:902:956
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 36 times
+send time :2:12:3:44:581:422
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 37 times
+send time :2:12:23:154:335:651
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 38 times
+send time :2:12:43:186:944:926
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 39 times
+send time :2:13:3:281:788:229
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 40 times
+send time :2:13:23:399:120:24
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 41 times
+send time :2:13:43:446:574:977
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 42 times
+send time :2:14:3:473:117:858
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 43 times
+send time :2:14:23:501:443:80
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 44 times
+send time :2:14:43:554:485:610
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 45 times
+send time :2:15:3:566:302:966
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 46 times
+send time :2:15:23:591:908:661
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 47 times
+send time :2:15:43:630:439:342
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 48 times
+send time :2:16:3:659:353:826
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 49 times
+send time :2:16:23:785:925:199
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 50 times
+send time :2:16:43:876:340:293
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 51 times
+send time :2:17:3:944:783:643
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 52 times
+send time :2:17:24:35:824:306
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 53 times
+send time :2:17:44:66:541:761
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 54 times
+send time :2:18:4:149:132:719
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 55 times
+send time :2:18:24:224:432:736
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 56 times
+send time :2:18:44:291:358:329
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 57 times
+send time :2:19:4:363:652:527
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 58 times
+send time :2:19:24:460:951:435
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 59 times
+send time :2:19:44:581:475:779
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 60 times
+send time :2:20:4:595:288:188
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 61 times
+send time :2:20:24:672:395:520
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 62 times
+send time :2:20:44:774:612:24
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 63 times
+send time :2:21:4:794:225:60
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 64 times
+send time :2:21:24:888:114:404
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 65 times
+send time :2:21:44:943:366:410
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 66 times
+send time :2:22:5:104:417:828
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 67 times
+send time :2:22:25:203:182:399
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 68 times
+send time :2:22:45:232:652:211
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 69 times
+send time :2:23:5:287:740:167
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 70 times
+send time :2:23:25:595:556:345
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 71 times
+send time :2:23:45:874:168:879
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 72 times
+send time :2:24:5:905:41:291
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 73 times
+send time :2:24:26:11:139:46
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 74 times
+send time :2:24:46:122:910:66
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 75 times
+send time :2:25:6:159:492:477
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 76 times
+send time :2:25:26:264:987:20
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 77 times
+send time :2:25:46:294:299:750
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 78 times
+send time :2:26:6:330:263:259
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 79 times
+send time :2:26:26:362:578:466
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 80 times
+send time :2:26:46:397:571:826
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 81 times
+send time :2:27:6:483:677:88
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 82 times
+send time :2:27:26:515:811:546
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 83 times
+send time :2:27:46:548:83:410
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 84 times
+send time :2:28:6:644:3:557
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 85 times
+send time :2:28:26:671:997:813
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 86 times
+send time :2:28:46:702:550:121
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 87 times
+send time :2:29:6:804:554:954
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 88 times
+send time :2:29:26:837:335:627
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 89 times
+send time :2:29:46:865:763:838
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 90 times
+send time :2:30:6:920:352:475
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 91 times
+send time :2:30:26:951:995:352
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 92 times
+send time :2:30:46:983:586:493
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 93 times
+send time :2:31:7:17:603:611
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 94 times
+send time :2:31:27:47:30:181
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 95 times
+send time :2:31:47:169:136:603
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 96 times
+send time :2:32:7:199:936:832
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 97 times
+send time :2:32:27:235:587:960
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 98 times
+send time :2:32:47:272:190:454
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 99 times
+send time :2:33:7:301:439:183
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 100 times
+send time :2:33:27:332:900:142
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 101 times
+send time :2:33:47:391:868:663
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 102 times
+send time :2:34:7:453:879:204
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 103 times
+send time :2:34:27:483:282:554
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 104 times
+send time :2:34:47:663:889:401
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 105 times
+send time :2:35:7:839:585:296
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 106 times
+send time :2:35:27:950:114:799
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 107 times
+send time :2:35:47:978:33:719
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 108 times
+send time :2:36:8:60:133:513
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 109 times
+send time :2:36:28:168:396:478
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 110 times
+send time :2:36:48:237:438:345
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 111 times
+send time :2:37:8:333:473:74
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 112 times
+send time :2:37:28:422:402:209
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 113 times
+send time :2:37:48:500:573:517
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 114 times
+send time :2:38:8:573:670:660
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 115 times
+send time :2:38:28:641:499:795
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 116 times
+send time :2:38:48:727:61:745
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 117 times
+send time :2:39:8:804:355:468
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 118 times
+send time :2:39:28:818:806:60
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 119 times
+send time :2:39:48:880:939:159
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 120 times
+send time :2:40:8:966:91:467
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 121 times
+send time :2:40:29:4:21:617
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 122 times
+send time :2:40:49:53:813:461
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 123 times
+send time :2:41:9:195:938:579
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 124 times
+send time :2:41:29:225:662:400
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 125 times
+send time :2:41:49:255:519:710
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 126 times
+send time :2:42:9:284:272:27
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 127 times
+send time :2:42:29:318:428:917
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 128 times
+send time :2:42:49:348:387:710
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 129 times
+send time :2:43:9:418:190:134
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 130 times
+send time :2:43:29:445:342:653
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 131 times
+send time :2:43:49:501:627:300
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 132 times
+send time :2:44:9:565:452:686
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 133 times
+send time :2:44:29:678:724:227
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 134 times
+send time :2:44:49:748:762:585
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 135 times
+send time :2:45:9:797:977:373
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 136 times
+send time :2:45:29:895:867:264
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 137 times
+send time :2:45:49:925:381:163
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 138 times
+send time :2:46:9:991:81:242
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 139 times
+send time :2:46:30:20:555:985
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 140 times
+send time :2:46:50:51:190:300
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 141 times
+send time :2:47:10:112:836:135
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 142 times
+send time :2:47:30:203:352:816
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 143 times
+send time :2:47:50:231:841:585
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 144 times
+send time :2:48:10:300:408:94
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 145 times
+send time :2:48:30:336:97:720
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 146 times
+send time :2:48:50:389:937:913
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 147 times
+send time :2:49:10:530:113:632
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 148 times
+send time :2:49:30:629:359:907
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 149 times
+send time :2:49:50:714:704:843
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 150 times
+send time :2:50:10:784:803:177
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 151 times
+send time :2:50:30:848:994:808
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 152 times
+send time :2:50:50:917:678:931
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 153 times
+send time :2:51:10:963:820:582
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 154 times
+send time :2:51:31:93:345:87
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 155 times
+send time :2:51:51:166:512:525
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 156 times
+send time :2:52:11:224:912:101
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 157 times
+send time :2:52:31:304:753:241
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 158 times
+send time :2:52:51:376:263:796
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 159 times
+send time :2:53:11:404:361:51
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 160 times
+send time :2:53:31:434:906:470
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 161 times
+send time :2:53:51:476:644:510
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 162 times
+send time :2:54:11:515:981:398
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 163 times
+send time :2:54:31:548:890:217
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 164 times
+send time :2:54:51:594:228:202
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 165 times
+send time :2:55:11:635:191:586
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 166 times
+send time :2:55:31:712:280:33
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 167 times
+send time :2:55:51:740:57:648
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 168 times
+send time :2:56:11:771:875:867
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 169 times
+send time :2:56:31:869:265:460
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 170 times
+send time :2:56:51:897:511:888
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 171 times
+send time :2:57:11:930:106:391
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 172 times
+send time :2:57:31:961:213:701
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 173 times
+send time :2:57:51:993:927:915
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 174 times
+send time :2:58:12:23:509:187
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 175 times
+send time :2:58:32:62:428:911
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 176 times
+send time :2:58:52:92:220:526
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 177 times
+send time :2:59:12:125:919:630
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 178 times
+send time :2:59:32:155:554:925
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 179 times
+send time :2:59:52:187:777:975
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 180 times
+send time :3:0:12:260:846:157
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 181 times
+send time :3:0:32:350:484:917
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 182 times
+send time :3:0:52:381:41:710
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 183 times
+send time :3:1:12:488:580:148
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 184 times
+send time :3:1:32:578:486:118
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 185 times
+send time :3:1:52:632:165:269
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 186 times
+send time :3:2:12:723:737:151
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 187 times
+send time :3:2:32:814:725:168
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 188 times
+send time :3:2:52:920:69:103
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 189 times
+send time :3:3:12:963:24:665
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 190 times
+send time :3:3:33:25:542:311
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 191 times
+send time :3:3:53:184:152:970
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 192 times
+send time :3:4:13:268:178:685
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 193 times
+send time :3:4:33:296:810:90
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 194 times
+send time :3:4:53:402:104:59
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 195 times
+send time :3:5:13:478:128:276
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 196 times
+send time :3:5:33:506:550:728
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 197 times
+send time :3:5:53:540:824:567
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 198 times
+send time :3:6:13:649:119:120
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 199 times
+send time :3:6:33:832:550:208
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 200 times
+send time :3:6:53:930:562:87
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 201 times
+send time :3:7:13:961:661:864
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 202 times
+send time :3:7:34:55:405:155
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 203 times
+send time :3:7:54:166:396:564
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 204 times
+send time :3:8:14:206:639:593
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 205 times
+send time :3:8:34:292:36:761
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 206 times
+send time :3:8:54:325:508:747
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 207 times
+send time :3:9:14:430:66:336
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 208 times
+send time :3:9:34:459:152:825
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 209 times
+send time :3:9:54:489:564:285
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 210 times
+send time :3:10:14:545:640:164
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 211 times
+send time :3:10:34:582:63:952
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 212 times
+send time :3:10:54:612:110:625
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 213 times
+send time :3:11:14:641:226:688
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 214 times
+send time :3:11:34:674:548:699
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 215 times
+send time :3:11:54:707:691:636
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 216 times
+send time :3:12:14:737:374:321
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 217 times
+send time :3:12:34:765:305:256
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 218 times
+send time :3:12:54:796:844:363
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 219 times
+send time :3:13:14:827:23:606
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 220 times
+send time :3:13:34:859:262:157
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 221 times
+send time :3:13:54:887:625:938
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 222 times
+send time :3:14:14:923:986:925
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 223 times
+send time :3:14:34:956:151:665
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 224 times
+send time :3:14:54:987:762:680
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 225 times
+send time :3:15:15:18:818:481
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 226 times
+send time :3:15:35:47:938:845
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 227 times
+send time :3:15:55:86:108:846
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 228 times
+send time :3:16:15:114:93:223
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 229 times
+send time :3:16:35:149:22:792
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 230 times
+send time :3:16:55:177:207:239
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 231 times
+send time :3:17:15:204:792:779
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 232 times
+send time :3:17:35:232:378:524
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 233 times
+send time :3:17:55:260:880:576
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 234 times
+send time :3:18:15:283:825:354
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 235 times
+send time :3:18:35:312:91:564
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 236 times
+send time :3:18:55:341:698:83
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 237 times
+send time :3:19:15:359:224:728
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 238 times
+send time :3:19:35:386:269:117
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 239 times
+send time :3:19:55:417:80:59
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 240 times
+send time :3:20:15:438:659:72
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 241 times
+send time :3:20:35:469:221:214
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 242 times
+send time :3:20:55:520:375:901
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 243 times
+send time :3:21:15:550:209:716
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 244 times
+send time :3:21:35:589:389:459
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 245 times
+send time :3:21:55:615:702:222
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 246 times
+send time :3:22:15:645:179:318
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 247 times
+send time :3:22:35:675:606:253
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 248 times
+send time :3:22:55:707:463:82
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 249 times
+send time :3:23:15:735:682:444
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 250 times
+send time :3:23:35:771:273:180
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 251 times
+send time :3:23:55:802:264:497
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 252 times
+send time :3:24:15:829:429:311
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 253 times
+send time :3:24:35:873:76:660
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 254 times
+send time :3:24:55:901:95:558
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 255 times
+send time :3:25:15:927:975:659
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 256 times
+send time :3:25:35:942:148:83
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 257 times
+send time :3:25:55:973:239:184
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 258 times
+send time :3:26:16:27:351:301
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 259 times
+send time :3:26:36:70:347:302
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 260 times
+send time :3:26:56:117:871:419
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 261 times
+send time :3:27:16:179:740:136
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 262 times
+send time :3:27:36:209:561:743
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 263 times
+send time :3:27:56:237:835:855
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 264 times
+send time :3:28:16:272:309:24
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 265 times
+send time :3:28:36:305:804:433
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 266 times
+send time :3:28:56:335:867:533
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 267 times
+send time :3:29:16:363:408:820
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 268 times
+send time :3:29:36:443:676:495
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 269 times
+send time :3:29:56:477:557:193
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 270 times
+send time :3:30:16:530:824:424
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 271 times
+send time :3:30:36:563:515:446
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 272 times
+send time :3:30:56:595:613:925
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 273 times
+send time :3:31:16:628:22:366
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 274 times
+send time :3:31:36:658:668:484
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 275 times
+send time :3:31:56:690:955:947
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 276 times
+send time :3:32:16:721:206:219
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 277 times
+send time :3:32:36:753:746:736
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 278 times
+send time :3:32:56:782:387:639
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 279 times
+send time :3:33:16:812:792:577
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 280 times
+send time :3:33:36:840:450:462
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 281 times
+send time :3:33:56:868:700:922
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 282 times
+send time :3:34:16:896:267:884
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 283 times
+send time :3:34:36:926:325:873
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 284 times
+send time :3:34:56:956:518:312
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 285 times
+send time :3:35:16:987:30:806
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 286 times
+send time :3:35:37:14:595:790
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 287 times
+send time :3:35:57:50:901:206
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 288 times
+send time :3:36:17:78:593:548
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 289 times
+send time :3:36:37:112:977:774
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 290 times
+send time :3:36:57:145:22:290
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 291 times
+send time :3:37:17:172:826:215
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 292 times
+send time :3:37:37:198:424:315
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 293 times
+send time :3:37:57:228:203:169
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 294 times
+send time :3:38:17:251:63:422
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 295 times
+send time :3:38:37:280:877:946
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 296 times
+send time :3:38:57:316:312:244
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 297 times
+send time :3:39:17:345:645:430
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 298 times
+send time :3:39:37:374:955:548
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 299 times
+send time :3:39:57:404:474:816
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 300 times
+send time :3:40:17:431:351:592
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 301 times
+send time :3:40:37:457:763:249
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 302 times
+send time :3:40:57:488:567:703
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 303 times
+send time :3:41:17:520:981:730
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 304 times
+send time :3:41:37:551:270:718
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 305 times
+send time :3:41:57:581:508:570
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 306 times
+send time :3:42:17:613:508:482
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 307 times
+send time :3:42:37:656:853:596
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 308 times
+send time :3:42:57:692:200:768
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 309 times
+send time :3:43:17:723:111:166
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 310 times
+send time :3:43:37:770:92:704
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 311 times
+send time :3:43:57:798:847:927
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 312 times
+send time :3:44:17:828:830:678
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 313 times
+send time :3:44:37:862:916:201
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 314 times
+send time :3:44:57:894:434:876
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 315 times
+send time :3:45:17:926:420:447
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 316 times
+send time :3:45:37:954:63:356
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 317 times
+send time :3:45:58:26:987:422
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 318 times
+send time :3:46:18:87:62:428
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 319 times
+send time :3:46:38:117:483:408
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 320 times
+send time :3:46:58:147:488:790
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 321 times
+send time :3:47:18:174:673:23
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 322 times
+send time :3:47:38:205:122:362
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 323 times
+send time :3:47:58:238:978:980
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 324 times
+send time :3:48:18:336:512:240
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 325 times
+send time :3:48:38:367:504:15
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 326 times
+send time :3:48:58:381:372:214
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 327 times
+send time :3:49:18:408:805:3
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 328 times
+send time :3:49:38:438:190:872
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 329 times
+send time :3:49:58:469:604:764
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 330 times
+send time :3:50:18:512:944:618
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 331 times
+send time :3:50:38:541:186:56
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 332 times
+send time :3:50:58:569:104:363
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 333 times
+send time :3:51:18:590:761:120
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 334 times
+send time :3:51:38:620:632:279
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 335 times
+send time :3:51:58:651:291:262
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 336 times
+send time :3:52:18:680:542:677
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 337 times
+send time :3:52:38:712:808:905
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 338 times
+send time :3:52:58:743:679:948
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 339 times
+send time :3:53:18:777:455:470
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 340 times
+send time :3:53:38:805:27:110
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 341 times
+send time :3:53:58:842:9:530
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 342 times
+send time :3:54:18:860:276:722
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 343 times
+send time :3:54:38:887:846:43
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 344 times
+send time :3:54:58:916:610:235
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 345 times
+send time :3:55:18:946:54:492
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 346 times
+send time :3:55:38:978:404:608
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 347 times
+send time :3:55:59:5:527:63
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 348 times
+send time :3:56:19:32:919:882
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 349 times
+send time :3:56:39:62:535:979
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 350 times
+send time :3:56:59:91:930:482
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 351 times
+send time :3:57:19:123:179:213
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 352 times
+send time :3:57:39:156:278:452
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 353 times
+send time :3:57:59:174:611:227
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 354 times
+send time :3:58:19:196:66:85
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 355 times
+send time :3:58:39:226:7:383
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 356 times
+send time :3:58:59:239:713:848
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 357 times
+send time :3:59:19:285:362:897
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 358 times
+send time :3:59:39:302:618:118
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 359 times
+send time :3:59:59:330:452:630
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 360 times
+send time :4:0:19:363:276:607
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 361 times
+send time :4:0:39:392:653:641
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 362 times
+send time :4:0:59:429:922:237
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 363 times
+send time :4:1:19:460:331:880
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 364 times
+send time :4:1:39:496:765:841
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 365 times
+send time :4:1:59:530:139:562
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 366 times
+send time :4:2:19:561:841:143
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 367 times
+send time :4:2:39:604:307:129
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 368 times
+send time :4:2:59:633:373:732
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 369 times
+send time :4:3:19:677:541:40
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 370 times
+send time :4:3:39:711:781:820
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 371 times
+send time :4:3:59:742:14:818
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 372 times
+send time :4:4:19:771:344:330
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 373 times
+send time :4:4:39:808:361:799
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 374 times
+send time :4:4:59:840:451:582
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 375 times
+send time :4:5:19:867:637:204
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 376 times
+send time :4:5:39:926:494:999
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 377 times
+send time :4:5:59:960:427:350
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 378 times
+send time :4:6:19:989:780:852
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 379 times
+send time :4:6:40:37:332:507
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 380 times
+send time :4:7:0:99:179:925
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 381 times
+send time :4:7:20:132:385:245
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 382 times
+send time :4:7:40:151:508:317
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 383 times
+send time :4:8:0:238:728:250
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 384 times
+send time :4:8:20:300:301:82
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 385 times
+send time :4:8:40:377:549:476
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 386 times
+send time :4:9:0:431:162:299
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 387 times
+send time :4:9:20:566:11:137
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 388 times
+send time :4:9:40:661:822:57
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 389 times
+send time :4:10:0:737:620:553
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 390 times
+send time :4:10:20:769:8:239
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 391 times
+send time :4:10:40:872:93:981
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 392 times
+send time :4:11:0:969:729:194
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 393 times
+send time :4:11:20:979:455:376
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 394 times
+send time :4:11:41:41:580:701
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 395 times
+send time :4:12:1:68:821:760
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 396 times
+send time :4:12:21:99:730:497
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 397 times
+send time :4:12:41:129:902:671
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 398 times
+send time :4:13:1:161:157:699
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 399 times
+send time :4:13:21:175:59:533
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 400 times
+send time :4:13:41:213:532:384
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 401 times
+send time :4:14:1:266:915:586
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 402 times
+send time :4:14:21:313:831:913
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 403 times
+send time :4:14:41:398:62:579
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 404 times
+send time :4:15:1:483:850:264
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 405 times
+send time :4:15:21:542:929:725
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 406 times
+send time :4:15:41:613:384:265
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 407 times
+send time :4:16:1:662:274:978
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 408 times
+send time :4:16:21:726:914:8
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 409 times
+send time :4:16:41:803:514:817
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 410 times
+send time :4:17:2:548:824:96
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 411 times
+send time :4:17:22:581:827:594
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 412 times
+send time :4:17:42:636:854:826
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 413 times
+send time :4:18:2:664:239:633
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 414 times
+send time :4:18:22:698:24:992
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 415 times
+send time :4:18:42:763:470:288
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 416 times
+send time :4:19:2:851:354:161
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 417 times
+send time :4:19:22:916:45:473
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 418 times
+send time :4:19:42:964:775:169
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 419 times
+send time :4:20:3:26:579:737
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 420 times
+send time :4:20:23:53:523:618
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 421 times
+send time :4:20:43:108:152:183
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 422 times
+send time :4:21:3:165:282:666
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 423 times
+send time :4:21:23:259:342:833
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 424 times
+send time :4:21:43:324:896:29
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 425 times
+send time :4:22:3:355:440:899
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 426 times
+send time :4:22:23:433:568:61
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 427 times
+send time :4:22:43:463:650:425
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 428 times
+send time :4:23:3:497:193:98
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 429 times
+send time :4:23:23:526:832:315
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 430 times
+send time :4:23:43:567:315:356
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 431 times
+send time :4:24:3:599:730:932
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 432 times
+send time :4:24:23:629:451:716
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 433 times
+send time :4:24:43:753:92:928
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 434 times
+send time :4:25:3:777:757:851
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 435 times
+send time :4:25:23:876:131:283
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 436 times
+send time :4:25:43:906:776:880
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 437 times
+send time :4:26:3:934:816:985
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 438 times
+send time :4:26:24:6:899:542
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 439 times
+send time :4:26:44:37:191:829
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 440 times
+send time :4:27:4:70:981:975
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 441 times
+send time :4:27:24:99:304:35
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 442 times
+send time :4:27:44:130:358:638
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 443 times
+send time :4:28:4:162:249:631
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 444 times
+send time :4:28:24:196:516:817
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 445 times
+send time :4:28:44:229:626:126
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 446 times
+send time :4:29:4:243:590:290
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 447 times
+send time :4:29:24:276:267:13
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 448 times
+send time :4:29:44:307:148:449
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 449 times
+send time :4:30:4:347:273:57
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 450 times
+send time :4:30:24:377:288:851
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 451 times
+send time :4:30:44:521:55:813
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 452 times
+send time :4:31:4:629:367:340
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 453 times
+send time :4:31:24:646:513:589
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 454 times
+send time :4:31:44:716:78:906
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 455 times
+send time :4:32:4:803:883:795
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 456 times
+send time :4:32:24:909:706:991
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 457 times
+send time :4:32:45:25:566:950
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 458 times
+send time :4:33:5:157:111:413
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 459 times
+send time :4:33:25:228:366:979
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 460 times
+send time :4:33:45:298:238:795
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 461 times
+send time :4:34:5:373:372:172
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 462 times
+send time :4:34:25:399:378:688
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 463 times
+send time :4:34:45:504:864:881
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 464 times
+send time :4:35:5:570:501:670
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 465 times
+send time :4:35:25:650:57:9
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 466 times
+send time :4:35:45:691:534:639
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 467 times
+send time :4:36:5:722:923:413
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 468 times
+send time :4:36:25:789:994:410
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 469 times
+send time :4:36:45:824:779:932
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 470 times
+send time :4:37:5:854:239:527
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 471 times
+send time :4:37:25:910:822:881
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 472 times
+send time :4:37:45:939:79:586
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 473 times
+send time :4:38:6:225:742:571
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 474 times
+send time :4:38:26:312:265:557
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 475 times
+send time :4:38:46:366:986:793
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 476 times
+send time :4:39:6:380:135:381
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 477 times
+send time :4:39:26:409:434:451
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 478 times
+send time :4:39:46:442:357:527
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 479 times
+send time :4:40:6:462:418:75
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 480 times
+send time :4:40:26:495:593:97
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 481 times
+send time :4:40:46:527:498:619
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 482 times
+send time :4:41:6:601:690:253
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 483 times
+send time :4:41:26:636:207:583
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 484 times
+send time :4:41:46:710:116:225
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 485 times
+send time :4:42:6:851:339:866
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 486 times
+send time :4:42:26:903:404:837
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 487 times
+send time :4:42:46:932:906:754
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 488 times
+send time :4:43:6:993:568:416
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 489 times
+send time :4:43:27:24:566:950
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 490 times
+send time :4:43:47:44:886:417
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 491 times
+send time :4:44:7:131:621:217
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 492 times
+send time :4:44:27:214:253:604
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 493 times
+send time :4:44:47:290:90:109
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 494 times
+send time :4:45:7:380:624:917
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 495 times
+send time :4:45:27:433:326:708
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 496 times
+send time :4:45:47:503:901:153
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 497 times
+send time :4:46:7:532:988:941
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 498 times
+send time :4:46:27:599:781:9
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 499 times
+send time :4:46:47:629:544:80
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 500 times
+send time :4:47:7:720:954:507
+Prepare Boradcast: 
+ Send Broadcast 
+

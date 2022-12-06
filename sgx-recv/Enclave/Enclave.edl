@@ -1,0 +1,29 @@
+enclave {
+
+    include "sgx_tseal.h"
+    include "common.h"
+
+
+    trusted {
+        /* define ECALLs here. */
+
+         public sgx_status_t seal_keys([in, size=plaintext_len]uint8_t* plaintext, size_t plaintext_len, [out, size=sealed_size]sgx_sealed_data_t* sealed_data, size_t sealed_size);
+
+        public sgx_status_t prepare_broadcast([in, size=sealed_size]sgx_sealed_data_t* sealed_data, size_t sealed_size, 
+                [out,size=lenOut] char *encMessageOut, size_t lenOut);
+
+
+        public sgx_status_t receive_broadcast(
+                [in, size=rcvdEncMessageInLen]char* rcvdEncMessageIn, size_t rcvdEncMessageInLen, 
+
+                [out,size=resultOutLen] char *resultOut, size_t resultOutLen);
+    };
+
+    untrusted {
+        /* define OCALLs here. */
+        void ocall_print([in, string]const char* str);
+
+
+        void ocall_print_uint8_array([in, size=len] uint8_t *array, size_t len);
+    };
+};

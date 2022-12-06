@@ -1,0 +1,89 @@
+~/Documents/cav_project/sgx-send master*
+❯ bash loop.sh
+Welcome 1 times
+send time :1:43:49:807:265:883
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 2 times
+send time :1:44:9:837:238:763
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 3 times
+send time :1:44:29:866:12:743
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 4 times
+send time :1:44:49:893:762:23
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 5 times
+send time :1:45:9:908:378:606
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 6 times
+send time :1:45:29:937:608:919
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 7 times
+send time :1:45:49:950:786:839
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 8 times
+send time :1:46:9:965:436:671
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 9 times
+send time :1:46:29:994:648:60
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 10 times
+send time :1:46:50:25:586:913
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 11 times
+send time :1:47:10:55:967:81
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 12 times
+send time :1:47:30:82:360:4
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 13 times
+send time :1:47:50:112:303:731
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 14 times
+send time :1:48:10:134:461:895
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 15 times
+send time :1:48:30:163:105:793
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 16 times
+send time :1:48:50:192:622:628
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 17 times
+send time :1:49:10:219:712:963
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 18 times
+send time :1:49:30:250:686:842
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 19 times
+send time :1:49:50:281:688:542
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 20 times
+send time :1:50:10:382:539:383
+Prepare Boradcast: 
+ Send Broadcast 
+Welcome 21 times
+
+Connection Failed 
+Welcome 22 times
+
+Connection Failed 
+^C
